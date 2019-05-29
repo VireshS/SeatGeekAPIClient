@@ -2,10 +2,10 @@
 iOS client app for consuming Seat Geek public APIs.
 
 ### Prerequisites:
-XCode: 10.1, Swift: 4.2, Deployment Target iOS 12
+XCode: 10.1, Swift: 4.2
 
 ### Deployment Target: 
-iOS 11.0 | iPHone Only
+iOS 11.0 | iPhone Only
 
 
 #### Please read the detailed documentation here about the solution: [CodingChallenge.pdf](https://github.com/VireshS/SeatGeekAPIClient/blob/master/CodingChallenge.pdf)
